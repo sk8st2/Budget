@@ -21,8 +21,6 @@ Core Features
 
     Confirmable Allocations: Instead of just guessing, you can confirm your weekly savings, debt, or investment allocations. The app logs these as transactions and updates your goals, keeping your budget perfectly accurate.
 
-    AI Financial Coach (Online Feature): When you have an internet connection, you can use the built-in Financial Coach. It uses the Gemini API to analyze an anonymous summary of your budget and provide personalized, encouraging tips to help you reach your goals faster.
-
 Getting Started: Your First Budget
 
     Set Your Starting Balance: Click on the "Starting Balance" in the "Monthly Snapshot" section to set the amount of money you're beginning with for the current month.
@@ -46,5 +44,6 @@ To get the full app experience with an icon on your home screen, you first need 
     Save the Files: Save the index.html, sw.js, and manifest.json files to a single folder on your computer.
 
     Upload: Compress that folder into a .zip file. Go to a free hosting service like tiiny.host, upload your .zip file, and get your unique URL.
+
 
     Add to Home Screen: Open that URL in Safari on your iPhone, tap the "Share" icon, and then tap "Add to Home Screen." You'll now have a "My Budget" app icon that works offline.
